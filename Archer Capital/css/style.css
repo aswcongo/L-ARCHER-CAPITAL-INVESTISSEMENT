@@ -8135,10 +8135,11 @@ h1, h2, h3, h4, h5,
     border: 1px solid #01d28e;
     background: #01d28e !important; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #ccae6a; }
+    color: #fff;
+    background-color: #233759;  }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-      color: #ccae6a; } }
+      color: #fff; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;

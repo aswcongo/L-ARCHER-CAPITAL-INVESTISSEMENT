@@ -252,7 +252,7 @@ h1, h2, h3, h4, h5,
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
     .site-navbar .site-navigation .site-menu .active > a {
-      color: #ccae6a;
+      color: #CCAE6A;
       display: inline-block;
       padding: 5px 20px; }
     .site-navbar .site-navigation .site-menu a {
@@ -333,7 +333,7 @@ h1, h2, h3, h4, h5,
           transition: 0s all;
           color: #343a40; }
         .site-navbar .site-navigation .site-menu .has-children .dropdown .active > a {
-          color: #ff5e15 !important; }
+          color: #233759 !important; }
         .site-navbar .site-navigation .site-menu .has-children .dropdown > li {
           list-style: none;
           padding: 0;
@@ -344,7 +344,7 @@ h1, h2, h3, h4, h5,
             display: block; }
             .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a:hover {
               background: #f4f5f9;
-              color: #25262a; }
+              color: #ccae6a; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children > a:before {
             content: "\e315";
             right: 20px; }
@@ -353,7 +353,7 @@ h1, h2, h3, h4, h5,
             top: 0; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:hover > a, .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:active > a, .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children:focus > a {
             background: #f4f5f9;
-            color: #25262a; }
+            color: #ccae6a; }
       .site-navbar .site-navigation .site-menu .has-children:hover > a, .site-navbar .site-navigation .site-menu .has-children:focus > a, .site-navbar .site-navigation .site-menu .has-children:active > a {
         color: #000; }
       .site-navbar .site-navigation .site-menu .has-children:hover, .site-navbar .site-navigation .site-menu .has-children:focus, .site-navbar .site-navigation .site-menu .has-children:active {
@@ -524,11 +524,11 @@ h1, h2, h3, h4, h5,
     transition: .3s all ease;
     background: #233759; }
     .sticky-wrapper .site-navbar .site-logo a {
-      color: #000; }
+      color: #CCAE6A; }
     .sticky-wrapper .site-navbar .site-menu > li {
       display: inline-block; }
       .sticky-wrapper .site-navbar .site-menu > li > a.active {
-        color: #000;
+        color: #CCAE6A;
         position: relative; }
         .sticky-wrapper .site-navbar .site-menu > li > a.active:after {
           height: 2px;
