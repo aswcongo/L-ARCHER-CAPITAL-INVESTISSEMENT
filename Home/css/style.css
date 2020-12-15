@@ -1130,7 +1130,7 @@ h1, h2, h3, h4, h5,
       left: -20px;
       border-top: 40px solid transparent;
       border-bottom: 40px solid transparent;
-      border-right: 40px solid #ff5e15; }
+      border-right: 40px solid #CCAE6A; }
     .services-1-wrap .service-1 .service-1-icon > span {
       color: #000;
       font-size: 4rem; }
@@ -1142,7 +1142,7 @@ h1, h2, h3, h4, h5,
     font-size: 15px; }
 
 .services-1-wrap [class^="col-"]:last-child .service-1 {
-  border-right: 1px solid #efefef; }
+  border-right: 1px solid #CCAE6A; }
 
 .header-top > .container {
   padding-top: 40px;
@@ -1181,7 +1181,7 @@ h1, h2, h3, h4, h5,
 
 .section-subtitle {
   font-weight: 300;
-  color: #ff5e15;
+  color: #CCAE6A;
   text-transform: uppercase;
   font-size: 1.3rem; }
 
