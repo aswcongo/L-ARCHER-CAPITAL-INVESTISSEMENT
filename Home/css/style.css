@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5,
   .ul-check.success li:before {
     color: #8bc34a; }
   .ul-check.primary li:before {
-    color: #ff5e15; }
+    color: #CCAE6A; }
 
 .select-wrap, .wrap-icon {
   position: relative; }
@@ -614,11 +614,11 @@ h1, h2, h3, h4, h5,
   color: #000; }
   .section-title-underline span {
     display: inline-block;
-    border-bottom: 4px solid #ff5e15; }
+    border-bottom: 4px solid #CCAE6A; }
   .section-title-underline.style-2 {
     color: #fff; }
     .section-title-underline.style-2 span {
-      border-color: #ff5e15; }
+      border-color: #CCAE6A; }
 
 .section-bg {
   background-size: cover;
@@ -641,10 +641,10 @@ h1, h2, h3, h4, h5,
       z-index: 2; }
     .section-bg.style-1 .icon {
       font-size: 3.5rem;
-      color: #ff5e15; }
+      color: #CCAE6A; }
     .section-bg.style-1 h3 {
       font-size: 20px;
-      color: #ff5e15;
+      color: #CCAE6A;
       margin-bottom: 30px; }
     .section-bg.style-1 p {
       color: #7697c6; }
@@ -715,7 +715,7 @@ h1, h2, h3, h4, h5,
   display: inline-block;
   width: 40px;
   height: 40px;
-  background: #ff5e15;
+  background: #CCAE6A;
   position: relative; }
   .social-wrap a > span {
     position: absolute;
@@ -774,7 +774,7 @@ h1, h2, h3, h4, h5,
       transform: translate(-50%, -50%); }
     .hero-slide .owl-nav .owl-prev:hover,
     .hero-slide .owl-nav .owl-next:hover {
-      background: #ff5e15; }
+      background: #CCAE6A; }
       .hero-slide .owl-nav .owl-prev:hover > span,
       .hero-slide .owl-nav .owl-next:hover > span {
         color: #fff; }
@@ -800,7 +800,7 @@ h1, h2, h3, h4, h5,
         margin: 2px 5px;
         background: white; }
       .hero-slide .owl-dots .owl-dot.active > span {
-        background: #ff5e15; }
+        background: #CCAE6A; }
 
 .owl-slide-3, .owl-slide {
   position: relative; }
@@ -851,7 +851,7 @@ h1, h2, h3, h4, h5,
         margin: 2px 5px;
         background: rgba(0, 0, 0, 0.2); }
       .owl-slide-3 .owl-dots .owl-dot.active > span, .owl-slide .owl-dots .owl-dot.active > span {
-        background: #ff5e15; }
+        background: #CCAE6A; }
 
 .owl-slide .owl-nav {
   display: none; }
@@ -905,7 +905,7 @@ h1, h2, h3, h4, h5,
   .course-1-item figure {
     position: relative; }
   .course-1-item .category {
-    background: #ff5e15;
+    background: #CCAE6A;
     padding: 20px; }
     .course-1-item .category h3 {
       color: #fff;
@@ -947,7 +947,7 @@ h1, h2, h3, h4, h5,
     margin-bottom: 30px;
     text-transform: uppercase; }
     .footer .footer-heading > span {
-      border-bottom: 2px solid #ff5e15; }
+      border-bottom: 2px solid #CCAE6A; }
   .footer ul li {
     margin-bottom: 10px; }
   .footer a {
@@ -1231,7 +1231,7 @@ h1, h2, h3, h4, h5,
     opacity: 0;
     visibility: hidden; }
     .project-item .project-item-contents .project-item-category {
-      color: #ff5e15;
+      color: #CCAE6A;
       font-family: "Nirmala", sans-serif;
       text-transform: uppercase; }
     .project-item .project-item-contents .project-item-title {
@@ -1311,7 +1311,7 @@ h1, h2, h3, h4, h5,
     .person .person-contents h3 {
       color: #000; }
     .person .person-contents .position {
-      color: #ff5e15; }
+      color: #CCAE6A; }
   .person:hover img {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
@@ -1354,7 +1354,7 @@ h1, h2, h3, h4, h5,
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   font-size: 1.2rem;
-  color: #ff5e15; }
+  color: #CCAE6A; }
 
 .blog-entry .img-link {
   display: block;
@@ -1382,7 +1382,7 @@ h1, h2, h3, h4, h5,
   .blog-entry .blog-entry-contents .meta, .blog-entry .blog-entry-contents .meta a {
     color: #b0b0b0; }
   .blog-entry .blog-entry-contents .meta a {
-    color: #ff5e15; }
+    color: #CCAE6A; }
 
 .block-4 h3 {
   color: #fff;
@@ -1400,7 +1400,7 @@ h1, h2, h3, h4, h5,
 
 .block-4 .form-subscribe .btn {
   background: #000;
-  border-color: #000;
+  border-color: #fff;
   border-radius: 0; }
   .block-4 .form-subscribe .btn:hover, .block-4 .form-subscribe .btn:active, .block-4 .form-subscribe .btn:focus {
     -webkit-box-shadow: none;
